@@ -1,4 +1,6 @@
 1st Step: Copy the main project folder
+
+---------------------------------------------------------
 2nd Step: Paste in xampp/htdocs/
 
 3rd Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
