@@ -8,4 +8,4 @@ This is a task management system in PHP ,Javascript and Ajax.This task managemen
  and there is no registration for admin,and users can be created by admin only for creating admin user 
 we have to create manualy in database. 
 admin-username : admin@gmail.com ,password :admin123
-user-username : priyanka@gmail.com,password :123
+user-username : arunava@gmail.com,password :123
