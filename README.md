@@ -2,21 +2,27 @@
 
 ---------------------------------------------------------
 2nd Step: Paste in xampp/htdocs/
-
+-------------------------------------------------------------------
 3rd Step: Open a browser and go to URL “http://localhost/phpmyadmin/”
+
+-----------------------------------------------------------
 4th Step: Then, click on the databases tab
+---------------------------------------------------------
 5th Step: Create a database naming “Pilot_Project” and then click on the import tab
+--------------------------------------------------------
 6th Step: Click on browse file and select “DatabaseFile.1 MySQL dump” file which is inside the “PROJECT_NEW” folder
+------------------------------------------------------
 7th Step: Click on go.
+-----------------------------------------------------
 
 After Creating Database,
 
 9th Step: Open a browser and go to URL “http://localhost/PROJECT_NEW/”
 
-Note: For all the login details, check the README.MD file. For the project demo, you can have look at the video below:
+Note: For all the login details, check the README.MD file. 
 
 
-
+----------------------------------------------------------------------
 
 
 # Task_Management_OOP
